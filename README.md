@@ -3,6 +3,13 @@ demo for pyszr
 
 # 安装前准备
 
+# python包的功能
+
+请用pip install pyszr
+
 # R包的功能
-这是对python包的封装
-请用pip install xxxxxx
+
+devtools::install_github('takewiki/pyszr@main')
+
+
+
