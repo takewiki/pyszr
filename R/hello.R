@@ -16,4 +16,5 @@
 hello <- function(word="Hello, world!") {
   print(word)
   return(word)
+  print('aaaa')
 }
