@@ -3,7 +3,7 @@ demo for pyszr
 
 # 安装前准备
 
-#更新操作系统
+# 更新操作系统
 
 sudo apt-get update
 sudo apt-get install -y cron
